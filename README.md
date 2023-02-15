@@ -6,9 +6,9 @@
 
 • I also love working with different analytical tools like
 
-Power BI
-SQL / MySQL
-Python
+Power BI,
+SQL / MySQL,
+Python,
 Excel 
 
 • Currently learning Microsoft Azure.
